@@ -6,7 +6,9 @@ namespace SanaPrakt02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Sana Commerce Software Development Bootcamp");
+            Console.WriteLine("Hello");
+            Console.ReadLine();
         }
     }
 }
